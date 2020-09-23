@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1485404b-1571-4ade-bae0-b22d1fd9bcd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SumSquareDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NthPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,14 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumSquareDifference">
-    <configuration name="EvenFibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenFibo" />
-      <module name="Project_Euler" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NthPrime">
     <configuration name="LargestPalindromeProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LargestPalindromeProduct" />
       <module name="Project_Euler" />
@@ -57,6 +50,13 @@
     </configuration>
     <configuration name="LargestPrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LargestPrimeFactor" />
+      <module name="Project_Euler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NthPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NthPrime" />
       <module name="Project_Euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NthPrime" />
         <item itemvalue="Application.SumSquareDifference" />
         <item itemvalue="Application.SmallestMultiple" />
         <item itemvalue="Application.LargestPalindromeProduct" />
         <item itemvalue="Application.LargestPrimeFactor" />
-        <item itemvalue="Application.EvenFibo" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,7 @@
       <updated>1600694169072</updated>
       <workItem from="1600694171161" duration="2659000" />
       <workItem from="1600758691642" duration="2255000" />
-      <workItem from="1600867202614" duration="1717000" />
+      <workItem from="1600867202614" duration="3447000" />
     </task>
     <servers />
   </component>
